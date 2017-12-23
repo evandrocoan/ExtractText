@@ -1,6 +1,4 @@
 [
-  {
-    "caption": "Extract: Move selection to file ...",
-    "command": "extract_to_file"
-  }
+    { "caption": "Extract: Move selection to file", "command": "extract_to_file" },
+    { "caption": "Extract: Clean save file modifications", "command": "clean_save_file_modifications" },
 ]
