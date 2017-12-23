@@ -57,4 +57,5 @@ class ExtractToFileCommand(sublime_plugin.TextCommand):
     file_view = self.view.window().open_file(pathname)
 
   def item_highlighted(self, i):
-    1
+    pass
+
